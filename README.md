@@ -1,5 +1,5 @@
 # To-Do-List
-**LGM TASK-1  Creating a To-Do list Web Application**
+**LGM TASK-1 --> Creating a To-Do list Web Application**
 
 This task is to determine your understanding  of HTML, CSS and Javascript skills along.
 
