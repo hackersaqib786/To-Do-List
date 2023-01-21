@@ -11,7 +11,7 @@ IDE: Microsoft Visual Code Studio
 
 **Outcome:-**
 
-1) The To-Do list with the functionality of adding taskes.
+1) The To-Do list with the functionality of adding tasks.
 
 ![image](https://user-images.githubusercontent.com/102990706/213887885-45e591a8-7c87-4022-bae9-1528997772b0.png)
 
